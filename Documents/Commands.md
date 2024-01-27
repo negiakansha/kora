@@ -14,4 +14,3 @@
 1. GPT
 2. Weather
 3. Time
-
