@@ -10,5 +10,7 @@
     - Gyro Sensors
     - Accelerometers
     - Magnetometers
+4. Touch Sensor
+    - Touch Sensor on top of head for head pats
 
 > All Data is used to produce commands specified in `Commands.md`
