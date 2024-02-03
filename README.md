@@ -4,4 +4,4 @@ Kora is an innovative GPT-based companion designed to enhance your daily interac
 ### Developers:
 - Aryan Chand
 - Akansha Negi
-- Justin
+- Justin [idk your name lmao]
